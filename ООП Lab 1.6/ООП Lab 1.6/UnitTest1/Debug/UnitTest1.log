@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(26,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(26,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(41,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(41,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(45,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(45,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(65,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(70,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(75,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(107,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(112,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(117,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\ООП Lab 1.6\Complex.cpp(122,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\Debug\UnitTest1.lib and object C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Admin\Desktop\ООП Lab 1.6\ООП Lab 1.6\Debug\UnitTest1.dll
